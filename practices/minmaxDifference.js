@@ -11,4 +11,4 @@ function minMaxDifference(num) {
 }
 console.log(minMaxDifference(11902));
 console.log(minMaxDifference(99009));
- 
+  
