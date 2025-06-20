@@ -7,6 +7,5 @@ var divideArray = function(nums, k) {
         if (group[2] - group[0] > k) return [];
         res.push(group);
     }
-
     return res;
 };
